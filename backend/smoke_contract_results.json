@@ -1,0 +1,20 @@
+{
+  "generate_status": 200,
+  "question_count": 3,
+  "question_types": [
+    "conceptual",
+    "application",
+    "reasoning"
+  ],
+  "generate_source": "fallback",
+  "analyze_status": 200,
+  "analyze_source": "fallback",
+  "stage_sources": {
+    "evaluation": "fallback",
+    "learning_plan": "fallback"
+  },
+  "has_confidence_gaps": true,
+  "learning_question_status": 200,
+  "learning_attempt_status": 200,
+  "adaptive_state": "neutral"
+}
